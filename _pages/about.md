@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Science and Artificial Intelligence M.Sc. student at [Saarland University](https://www.uni-saarland.de/en/home.html) interested in secure and safe machine learning. I am currently employed as an research assistant in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/) at [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where I study red-teaming and attacks of foundation models and LLMs. 
+I am a doctoral student at [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/) interested in secure and safe machine learning. I am co-adviced by [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Goran Radanovic](https://people.mpi-sws.org/~gradanovic/index.html).
 
 ## <span style="color:800000">Publications</span>
 - **Text-Diffusion Red-Teaming of Large Language Models:
 Unveiling Harmful Behaviors with Proximity Constraints**  
 With Adish Singla and Goran Radanovic  
-*Under Review at COLM*  
+*Under Review at AAAI*
 **TL;DR:** Applying text-diffusion models to red-teaming to satisfy proximity constraints with regards to a reference prompt
-- **Defending Against Unknown Corrupted Agents: Reinforcement Learning of Adversarially Robust Nash Equilibria**  
+- **[Defending Against Unknown Corrupted Agents: Reinforcement Learning of Adversarially Robust Nash Equilibria](https://openreview.net/pdf?id=62pcoIqovw)**
 With Andi Nika, Adish Singla, Goran Radanovic  
 *Under Review at TMLR*  
 **TL;DR:** Training robust agents in an MARL setting where an attacker can abitrarily corrupt a subset of peer agents of a given cardinality
