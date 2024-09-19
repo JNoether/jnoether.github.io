@@ -13,15 +13,15 @@ I am a doctoral student at [Max-Planck Institute for Software Systems](https://w
 - **Text-Diffusion Red-Teaming of Large Language Models:
 Unveiling Harmful Behaviors with Proximity Constraints**  
 With Adish Singla and Goran Radanovic  
-*Under Review at AAAI*__
+*Under Review at AAAI*\
 **TL;DR:** Applying text-diffusion models to red-teaming to satisfy proximity constraints with regards to a reference prompt
 - **[Defending Against Unknown Corrupted Agents: Reinforcement Learning of Adversarially Robust Nash Equilibria](https://openreview.net/pdf?id=62pcoIqovw)**
 With Andi Nika, Adish Singla, Goran Radanovic  
-*TMLR*__
+*TMLR*\
 **TL;DR:** Training robust agents in an MARL setting where an attacker can abitrarily corrupt a subset of peer agents of a given cardinality
 - **[Implicit poisoning attacks in two-agent reinforcement learning: Adversarial policies for training-time attacks](https://arxiv.org/pdf/2302.13851)**  
 With Mohammad Mohammadi, Debmalya Mandal, Adish Singla, Goran Radanovic  
-*AAMAS 2023*  
+*AAMAS 2023*\
 **TL;DR:** Attacking an agent my poisoning the policy of a peer agent during training
 
 ## <span style="color:800000">Projects</span> 
