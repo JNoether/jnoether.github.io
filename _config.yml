@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profilepic.jpg"
   name             : "Jonathan Nöther"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Doctoral Student interested in Security of Machine Learning"
   location         : "Saarbrücken, Germany"
   employer         : "MPI-SWS"
