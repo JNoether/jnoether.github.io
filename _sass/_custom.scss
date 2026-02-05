@@ -6,4 +6,41 @@ h1, h2, h3 {
     color: #1F3A5C;
   }
 
+  .responsive-figure {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    outline: 2px solid red;
+    object-fit: contain;
+  }
+
+  .page__content img {
+    max-width: 100%;
+    height: auto;
+  }
   
+  
+  .figure-wrapper {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
+  .figure-wrapper img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  
+    /* Safari-specific bug fix */
+    image-rendering: auto;
+  }
+  
+  .container {
+    // display: flex;          /* Enables flex layout */
+    justify-content: center; /* Centers divs horizontally */
+    align-items: center;     /* Centers divs vertically (if container has height) */
+    // gap: 20px;               /* Optional: space between divs */
+    // height: 100vh;           /* Example: full viewport height */
+  }

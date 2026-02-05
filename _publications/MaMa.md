@@ -8,8 +8,29 @@ venue: 'Preprint, under Review'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+<div class="container">
+<div class="paper-buttons">
+  <a href="https://arxiv.org/abs/2602.04431" class="paper-button">
+    <img src="{{ '/assets/images/MaMa/Paper_button.png' | relative_url }}"
+         alt="Read the paper"
+         width="25%" />
+  </a>
+  <a href="https://github.com/JNoether/MaMa" class="paper-button">
+    <img src="{{ '/assets/images/MaMa/Code_button.png' | relative_url }}"
+         alt="View the code"
+         width="25%" />
+  </a>
+</div>
 
 # MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems
+
+<div class="figure-wrapper">
+  <img  src="{{'/assets/images/MaMa/Illustration_Full.png' | relative_url }}"
+  class="responsive-figure"
+  style="border:None">
+</div>
+</div>
+<!-- *Figure 1: The Meta-Agent improves system designs based on the strongest attacks found by the Meta-Adversary.* -->
 
 ## Designing Safer AI Systems with Adversarial Thinking
 
@@ -77,7 +98,7 @@ The system is improved by repeating this process many times.
 
 ---
 
-## How MaMa Works
+<!-- ## How MaMa Works
 
 MaMa stands for **Meta-Agent – Meta-Adversary**.  
 It is an automated, iterative design method.
@@ -92,22 +113,15 @@ At a high level, it works like this:
 
 This loop continues, gradually producing safer systems.
 
----
+--- -->
 
-## System Overview
+<!-- ## System Overview
 
 The interaction between the Meta-Agent and the Meta-Adversary is shown below.
 
-<iframe
-  src="{{'/assets/images/MaMa/Illustration_Full.png' | relative_url }}"
-  width="100%"
-  height="300px"
-  style="border: none;">
-</iframe>
 
-*Figure 1: The Meta-Agent improves system designs based on the strongest attacks found by the Meta-Adversary.*
  
----
+--- -->
 
 ## What Does the Meta-Adversary Actually Do?
 
@@ -169,3 +183,7 @@ Systems designed with MaMa remain robust when:
 This suggests that MaMa produces **general safety improvements**, not just defenses against specific attacks.
 
 ---
+
+## Example Systems
+![Figure 3: Examples of the systems found using MaMa](/assets/images/MaMa/System_illustration.png)
+**Figure 3: Examples of the systems found using MaMa**
