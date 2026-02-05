@@ -1,0 +1,20 @@
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-1t2k2c sitelibdir\=./.gem.20260130-62322-1t2k2c clean
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-1t2k2c sitelibdir\=./.gem.20260130-62322-1t2k2c
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-1t2k2c sitelibdir\=./.gem.20260130-62322-1t2k2c install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20260130-62322-1t2k2c
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-1t2k2c sitelibdir\=./.gem.20260130-62322-1t2k2c clean

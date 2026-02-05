@@ -1,0 +1,19 @@
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-defale sitelibdir\=./.gem.20260130-62322-defale clean
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-defale sitelibdir\=./.gem.20260130-62322-defale
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-defale sitelibdir\=./.gem.20260130-62322-defale install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260130-62322-defale/racc
+
+current directory: /Users/mbk-adm/Desktop/page/jnoether.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260130-62322-defale sitelibdir\=./.gem.20260130-62322-defale clean

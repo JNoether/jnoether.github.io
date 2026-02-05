@@ -48,8 +48,7 @@ They are often **not enough** for multi-agent systems.
 ## A Stronger Threat Model
 
 Instead of assuming weak attacks or rare failures, this work considers a **worst-case scenario**:
-
-> An attacker can directly take control of a small number of agents and instruct them to behave maliciously.
+An attacker can directly take control of a small number of agents and instruct them to behave maliciously.
 
 This is a strong assumption—but it is intentional.
 
