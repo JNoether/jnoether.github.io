@@ -21,18 +21,17 @@ venue: 'Preprint, under Review'
          width="25%" />
   </a>
 </div>
+</div>
 
-# MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems
+<!-- *Figure 1: The Meta-Agent improves system designs based on the strongest attacks found by the Meta-Adversary.* -->
+
+## Designing Safer AI Systems with Adversarial Thinking
 
 <div class="figure-wrapper">
   <img  src="{{'/assets/images/MaMa/Illustration_Full.png' | relative_url }}"
   class="responsive-figure"
   style="border:None">
 </div>
-</div>
-<!-- *Figure 1: The Meta-Agent improves system designs based on the strongest attacks found by the Meta-Adversary.* -->
-
-## Designing Safer AI Systems with Adversarial Thinking
 
 Modern AI systems are no longer just single models answering questions.  
 More and more, they are **agentic systems**: groups of AI agents that talk to each other, use tools, and take actions on behalf of users.

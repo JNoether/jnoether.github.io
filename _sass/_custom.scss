@@ -37,10 +37,23 @@ h1, h2, h3 {
     image-rendering: auto;
   }
   
-  .container {
-    // display: flex;          /* Enables flex layout */
-    justify-content: center; /* Centers divs horizontally */
-    align-items: center;     /* Centers divs vertically (if container has height) */
-    // gap: 20px;               /* Optional: space between divs */
-    // height: 100vh;           /* Example: full viewport height */
+  .page__content .paper-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    margin: 1.5rem auto 2rem auto;
   }
+  
+  .page__content .paper-buttons a {
+    display: inline-block;
+    width: auto;
+  }
+  
+  .paper-button img {
+    display: block;
+    height: 200px;
+    width: auto;
+  }
+  
