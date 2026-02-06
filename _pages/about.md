@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student at [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/) interested in secure and safe machine learning. I am co-adviced by [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Goran Radanovic](https://people.mpi-sws.org/~gradanovic/index.html).
+I am a doctoral student at the [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where my research focuses on secure and safe machine learning. I am co-advised by [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Goran Radanovic](https://people.mpi-sws.org/~gradanovic/index.html).
 
 ## Publications
 - **[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](https://arxiv.org/pdf/2602.04431)**\
