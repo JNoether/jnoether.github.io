@@ -10,9 +10,13 @@ redirect_from:
 I am a doctoral student at the [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where my research focuses on secure and safe machine learning. I am co-advised by [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Goran Radanovic](https://people.mpi-sws.org/~gradanovic/index.html).
 
 ## Publications
-- **[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](https://arxiv.org/pdf/2602.04431)**\
+- **[CONTRA: Red-Teaming Configurations of Personalizable Agents](https://arxiv.org/pdf/2607.03220)**\
 With Adish Singla and Goran Radanovic\
 Preprint, Under Review\
+**TL;DR** Red-teaming agents personalities, with the goal of discovering personas that execute malicious actions
+- **[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](https://arxiv.org/pdf/2602.04431)**\
+With Adish Singla and Goran Radanovic\
+ICML 2026\
 **TL;DR:** Automatic Design of Safe Agentic Systems using a two-player game between a
 system designer and an attacker
 - **[AgenticRed: Optimizing Agentic Systems for Automated Red-teaming](https://arxiv.org/pdf/2601.13518)**\
@@ -21,6 +25,7 @@ Preprint, Under Review\
 **TL;DR:** Automatically design red-teaming workflows without human intervention
 - **[Benchmarking the Robustness of Agentic Systems to Adversarially-Induced Harmful Actions](https://arxiv.org/pdf/2508.16481)**\
 With Adish Singla and Goran Radanovic\
+COLM 2026\
 **TL;DR:** Benchmark for testing the robustness of LLM-based agents against adversaries that
 aim to manipulate them into performing dangerous actions
 - **[Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints](https://arxiv.org/pdf/2501.08246)**\
