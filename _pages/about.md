@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student at the [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where my research focuses on secure and safe machine learning. I am co-advised by [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Goran Radanovic](https://people.mpi-sws.org/~gradanovic/index.html).
+I'm a PhD student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), co-advised by [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Goran Radanovic](https://people.mpi-sws.org/~gradanovic/index.html). My research focuses on the safety of multi-agent systems. What happens when a subset of agents act adversarially, and how we can make such systems more robust. I work on this in three multi-agent settings, agentic systems, world-modelling and embodied AI.
 
 ## Publications
 - **[CONTRA: Red-Teaming Configurations of Personalizable Agents](https://arxiv.org/pdf/2607.03220)**\
@@ -66,3 +66,9 @@ a participant of mock-job interviews.
 - *10/2024-ongoing*: PhD in Computer Science at the Max Planck Instutute for Software Systems
 - *12/2022-08/2024*: M.Sc. in Data Science and Artificial Intelligence at Saarland University
 - *10/2019-11/2022*: B.Sc in Data Science and Artificial Intelligence at Saarland University
+
+## Collaboration
+
+I'm open to collaborations, particularly on safety benchmarking of LLM agents, multi-agent agentic systems, and world models. If your interests overlap, feel free to reach out.
+
+I also supervise student assistants (HiWis) and Master's theses for students at Saarland University. If you're interested, please email me your CV and transcript of records, along with a short note on your general research interests and what draws you to this area.
